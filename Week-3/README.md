@@ -13,6 +13,7 @@ The analysis uses both SQL and Python to find patterns in the data, test busines
 - Jupyter Notebook
 - Pandas
 - Matplotlib
+- Power BI
 
 ## Advanced SQL Analysis
 
