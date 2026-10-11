@@ -1,4 +1,4 @@
-# FinTrust Digital Bank: Customer and Transaction Analytics
+# FinTrust Digital Bank: Customer and Transaction Analysis
 
 ## Project Overview
 
